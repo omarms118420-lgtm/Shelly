@@ -96,10 +96,9 @@ class Bot {
       options
     );
     this.child.on("close", (codeExit) => {
-      if (codeExit !== 0 && this.countRestart < 5) {
-        this.countRestart += 1;
-        this.startBot();
-      }
+      this.countRestart += 1;
+      const delay = Math.min(1000 * Math.pow(2, this.countRestart), 30000);
+      setTimeout(() => this.startBot(), delay);
     });
     this.child.on("error", (error) => {
       console.error("An error occurred: " + JSON.stringify(error), "error");
