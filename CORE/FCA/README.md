@@ -179,4 +179,4 @@ login({appState: JSON.parse(fs.readFileSync('appstate.json', 'utf8'))}, (err, ap
 ---
 ## Join Chatbot Community Group Page Facebook 
  **[ Chatbot Community](https://facebook.com/groups/coders.dev/)**.
-For more detailed documentation, check out the [Docs](DOCS.md).
+For more detailed documentation, check out the [Docs](DOCS.md).aplin to pot 
