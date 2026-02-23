@@ -1,11 +1,11 @@
 {
   "AD": [
-    "61579845494950",
-    "100081570534647",
-    "100049189713406",
-    "559340384"
+    "61588108307572",
+    "61588108307572",
+    "61588108307572",
+    ""
   ],
-  "Owner": "61579845494950",
+  "Owner": "61588108307572",
   "MAD": [
     "value2"
   ],
@@ -16,7 +16,7 @@
   "TID": "28761754306743093",
   "PREFIX": ".",
   "APPSTATEPATH": "CONFIGURATIONS/SCookies.json",
-  "BOTNAME": "Dora",
+  "BOTNAME": "",
   "DeveloperMode": false,
   "onlyme": false,
   "FCAOption": {
