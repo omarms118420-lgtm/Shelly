@@ -1,11 +1,11 @@
 {
   "AD": [
-    "61588108307572",
-    "61588108307572",
-    "61588108307572",
+    "61576232405796",
+    "61576232405796",
+    "61576232405796",
     ""
   ],
-  "Owner": "61588108307572",
+  "Owner": "61576232405796",
   "MAD": [
     "value2"
   ],
@@ -31,5 +31,5 @@
     "type": "mongodb",
     "URI": "mongodb+srv://mynot1011_db_user:mohnoti3mk@noti.ntwxrts.mongodb.net/noti?retryWrites=true&w=majority"
   },
-  "shellyID": "61560179760306"
+  "shellyID": "61576232405796"
 }
